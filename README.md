@@ -1,4 +1,4 @@
-# About_Lanh
+# About_Lan・Anh
 - 🔭 I’m currently learning on UIT
 - 🌱 I’m currently learning Japanese & MySQL 
 -->
