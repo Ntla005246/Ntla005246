@@ -1,6 +1,6 @@
 # About_Lan・Anh
 - 🔭 I’m currently learning on UIT
-- 🌱 I’m currently learning Japanese & MySQL 
+- 🌱 I’m currently learning Japanese & Java
 -->
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ntla10032004.NTLA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.com/anhyeu10324) 
